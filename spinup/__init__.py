@@ -1,5 +1,6 @@
 # Algorithms
 from spinup.algos.ddpg.ddpg import ddpg
+from spinup.algos.atari_dqn.atari_dqn import atari_dqn
 from spinup.algos.dqn.dqn import dqn
 from spinup.algos.ppo.ppo import ppo
 from spinup.algos.sac.sac import sac
